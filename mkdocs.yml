@@ -129,13 +129,13 @@ repo_url: https://github.com/CurveDocs/curve-resources-ru
 
 
 nav:
-  - Главная: ru/index.md
-  - Начало работы с Curve: ru/getting-started.md
+  - Главная: index.md
+  - Начало работы с Curve: getting-started.md
 
   - Токен CRV:
-    - Обзор & Токеномика: ru/crv-token/overview.md
-    - Предложение & Распределение: ru/crv-token/supply-distribution.md
-    - CRV & veCRV FAQ: ru/crv-token/faq.md
+    - Обзор & Токеномика: crv-token/overview.md
+    - Предложение & Распределение: crv-token/supply-distribution.md
+    - CRV & veCRV FAQ: crv-token/faq.md
 
   - Блок CRV (veCRV):
     - Обзор: ru/vecrv/overview.md
