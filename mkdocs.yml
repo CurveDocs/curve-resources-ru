@@ -215,10 +215,10 @@ nav:
     - Безопасность и аудиты: ru/risks-security/security.md
 
   - Whitepapers (Белые книги):
-    - Curve Stableswap (2019): pdf/curve-stableswap.pdf
-    - Curve DAO (2020): pdf/curve-dao.pdf
-    - Curve Cryptopools (2021): pdf/curve-cryptopools.pdf
-    - Curve Stablecoin (2022): pdf/curve-stablecoin.pdf
+    - Curve Stableswap (2019): ru/pdf/curve-stableswap.pdf
+    - Curve DAO (2020): ru/pdf/curve-dao.pdf
+    - Curve Cryptopools (2021): ru/pdf/curve-cryptopools.pdf
+    - Curve Stablecoin (2022): ru/pdf/curve-stablecoin.pdf
 
   - Ссылки:
     - Curve.fi: https://curve.fi/#/ethereum/swap
@@ -231,5 +231,5 @@ nav:
     - Техническая документация: https://docs.curve.fi/
     - Telegram: https://t.me/curvefi
 
-  - Глоссарий: glossary-branding/glossary.md
-  - Брендинг и иконки: glossary-branding/branding.md
+  - Глоссарий: ru/glossary-branding/glossary.md
+  - Брендинг и иконки: ru/glossary-branding/branding.md
