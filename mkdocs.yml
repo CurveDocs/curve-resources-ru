@@ -154,65 +154,65 @@ nav:
   - Доходный-crvUSD (scrvUSD): ru/crvusd/scrvusd.md
 
   - Кредитование Curve:
-    - Обзор: lending/overview.md
-    - Кредитное плечо: lending/leverage.md
-    - Ликвидации: crvusd/liquidations.md
-    - Как заимствовать и использовать кредитное плечо: lending/how-to-borrow.md
-    - Как поставлять ликвидность: lending/how-to-supply.md
-    - FAQ по кредитованию: lending/faq.md
-    - Как создать кредитный рынок: lending/create-lending-market.md
+    - Обзор: ru/lending/overview.md
+    - Кредитное плечо: ru/lending/leverage.md
+    - Ликвидации: ru/crvusd/liquidations.md
+    - Как заимствовать и использовать кредитное плечо: ru/lending/how-to-borrow.md
+    - Как поставлять ликвидность: ru/lending/how-to-supply.md
+    - FAQ по кредитованию: ru/lending/faq.md
+    - Как создать кредитный рынок: ru/lending/create-lending-market.md
 
   - Пулы:
-    - Обзор: lp/overview.md
-    - FAQ по депозиту: lp/deposit-faqs.md
-    - Расчет доходности: lp/calculating-yield.md
-    - Графики и активность пулов: lp/charts_poolactivity.md
+    - Обзор: ru/lp/overview.md
+    - FAQ по депозиту: ru/lp/deposit-faqs.md
+    - Расчет доходности: ru/lp/calculating-yield.md
+    - Графики и активность пулов: ru/lp/charts_poolactivity.md
     - Депонирование:
-      - Обзор: lp/depositing/depositing.md
-      - Депонирование в tri-pool: lp/depositing/depositing-into-the-tri-pool.md
-      - Депонирование в metapool: lp/depositing/depositing-into-a-metapool.md
-      - Депонирование в cryptoswap-pool: lp/depositing/depositing-into-a-cryptoswap-pool.md
-      - Депонирование в tricrypto-pool: lp/depositing/depositing-into-a-tricrypto-pool.md
+      - Обзор: ru/lp/depositing/depositing.md
+      - Депонирование в tri-pool: ru/lp/depositing/depositing-into-the-tri-pool.md
+      - Депонирование в metapool: ru/lp/depositing/depositing-into-a-metapool.md
+      - Депонирование в cryptoswap-pool: ru/lp/depositing/depositing-into-a-cryptoswap-pool.md
+      - Депонирование в tricrypto-pool: ru/lp/depositing/depositing-into-a-tricrypto-pool.md
 
   - Создание пулов:
-    - Обзор создания пулов: pool-creation/pool-creation-overview.md
-    - Создание Stableswap пула: pool-creation/creating-a-stableswap-pool.md
-    - Создание Cryptoswap пула: pool-creation/creating-a-cryptoswap-pool.md
-    - Понимание оракулов: pool-creation/understanding-oracles.md
+    - Обзор создания пулов: ru/pool-creation/pool-creation-overview.md
+    - Создание Stableswap пула: ru/pool-creation/creating-a-stableswap-pool.md
+    - Создание Cryptoswap пула: ru/pool-creation/creating-a-cryptoswap-pool.md
+    - Понимание оракулов: ru/pool-creation/understanding-oracles.md
 
   - Гейджи вознаграждений (Reward Gauges):
-    - Обзор: reward-gauges/overview.md
-    - Создание гейджа пула: reward-gauges/creating-a-pool-gauge.md
-    - Увеличение ваших CRV наград: reward-gauges/boosting-your-crv-rewards.md
-    - Весы гейджей: reward-gauges/gauge-weights.md
-    - Безразрешительные вознаграждения: reward-gauges/permissionless-rewards.md
+    - Обзор: ru/reward-gauges/overview.md
+    - Создание гейджа пула: ru/reward-gauges/creating-a-pool-gauge.md
+    - Увеличение ваших CRV наград: ru/reward-gauges/boosting-your-crv-rewards.md
+    - Весы гейджей: ru/reward-gauges/gauge-weights.md
+    - Безразрешительные вознаграждения: ru/reward-gauges/permissionless-rewards.md
 
   - Управление (Governance):
-    - Понимание управления: governance/understanding-governance.md
-    - Голосование: governance/voting.md
-    - Фонд сообщества: governance/community-fund.md
+    - Понимание управления: ru/governance/understanding-governance.md
+    - Голосование: ru/governance/voting.md
+    - Фонд сообщества: ru/governance/community-fund.md
     - Предложения:
-      - Создание предложения DAO: governance/proposals/creating-a-dao-proposal.md
+      - Создание предложения DAO: ru/governance/proposals/creating-a-dao-proposal.md
 
   - Мультичейн:
-    - Понимание мультичейн: multichain/understanding-multichain.md
-    - CRV: multichain/crv.md
-    - crvUSD: multichain/crvusd.md
-    - scrvUSD: multichain/scrvusd.md
-    - Как перенести CRV, crvUSD и scrvUSD на L1 сети: multichain/bridging-curve-eco-tokens.md
+    - Понимание мультичейн: ru/multichain/understanding-multichain.md
+    - CRV: ru/multichain/crv.md
+    - crvUSD: ru/multichain/crvusd.md
+    - scrvUSD: ru/multichain/scrvusd.md
+    - Как перенести CRV, crvUSD и scrvUSD на L1 сети: ru/multichain/bridging-curve-eco-tokens.md
 
   - Поддержка и устранение неполадок:
-    - Поддержка: troubleshooting/support.md
-    - Восстановление кросс-активных обменов: troubleshooting/recovering-a-cross-asset-swap.md
-    - Отмена и замена зависшей транзакции: troubleshooting/dropping-and-replacing-a-stuck-transaction.md
-    - Отключение криптокошельков в Brave: troubleshooting/disabling-crypto-wallets-in-brave.md
+    - Поддержка: ru/troubleshooting/support.md
+    - Восстановление кросс-активных обменов: ru/troubleshooting/recovering-a-cross-asset-swap.md
+    - Отмена и замена зависшей транзакции: ru/troubleshooting/dropping-and-replacing-a-stuck-transaction.md
+    - Отключение криптокошельков в Brave: ru/troubleshooting/disabling-crypto-wallets-in-brave.md
 
   - Риски, безопасность и аудиты:
     - Риски:
-      - Ликвидные пулы: risks-security/risks/pool.md
-      - crvUSD: risks-security/risks/crvusd.md
-      - Кредитование: risks-security/risks/lending.md
-    - Безопасность и аудиты: risks-security/security.md
+      - Ликвидные пулы: ru/risks-security/risks/pool.md
+      - crvUSD: ru/risks-security/risks/crvusd.md
+      - Кредитование: ru/risks-security/risks/lending.md
+    - Безопасность и аудиты: ru/risks-security/security.md
 
   - Whitepapers (Белые книги):
     - Curve Stableswap (2019): pdf/curve-stableswap.pdf
