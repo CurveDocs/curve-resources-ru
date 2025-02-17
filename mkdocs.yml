@@ -138,20 +138,20 @@ nav:
     - CRV & veCRV FAQ: ru/crv-token/faq.md
 
   - Блок CRV (veCRV):
-    - Обзор: vecrv/overview.md
-    - Как блокировать CRV: vecrv/locking-your-crv.md
-    - Получение торговых комиссий: vecrv/claiming-trading-fees.md
-    - Сбор и распределение комиссий: vecrv/fee-collection-distribution.md
+    - Обзор: ru/vecrv/overview.md
+    - Как блокировать CRV: ru/vecrv/locking-your-crv.md
+    - Получение торговых комиссий: ru/vecrv/claiming-trading-fees.md
+    - Сбор и распределение комиссий: ru/vecrv/fee-collection-distribution.md
 
   - Стейблкоин Curve (crvUSD):
-    - Понимание crvUSD: crvusd/understanding-crvusd.md
-    - Создание и управление займом: crvusd/loan-creation.md
-    - Ликвидации: crvusd/liquidations.md
-    - Стратегии займов: crvusd/loan-strategies.md
-    - Глубокое понимание концепций займа: crvusd/loan-concepts.md
-    - FAQ по crvUSD: crvusd/faq.md
+    - Понимание crvUSD: ru/crvusd/understanding-crvusd.md
+    - Создание и управление займом: ru/crvusd/loan-creation.md
+    - Ликвидации: ru/crvusd/liquidations.md
+    - Стратегии займов: ru/crvusd/loan-strategies.md
+    - Глубокое понимание концепций займа: ru/crvusd/loan-concepts.md
+    - FAQ по crvUSD: ru/crvusd/faq.md
 
-  - Доходный-crvUSD (scrvUSD): crvusd/scrvusd.md
+  - Доходный-crvUSD (scrvUSD): ru/crvusd/scrvusd.md
 
   - Кредитование Curve:
     - Обзор: lending/overview.md
