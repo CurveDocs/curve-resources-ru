@@ -142,6 +142,8 @@ nav:
 
   - Стейблкоин Curve (crvUSD):
     - Понимание crvUSD: crvusd/understanding-crvusd.md
+    - Здоровье займа (Loan Health): crvusd/loan-health.md
+    - Процент заимствования (Borrow Rate): crvusd/borrow-rate.md
     - Создание и управление займом: crvusd/loan-creation.md
     - Ликвидации: crvusd/liquidations.md
     - Стратегии займов: crvusd/loan-strategies.md
@@ -150,11 +152,9 @@ nav:
 
   - Доходный-crvUSD (scrvUSD): crvusd/scrvusd.md
 
-  - Кредитование Curve:
+  - Curve Lending (LlamaLend):
     - Обзор: lending/overview.md
     - Ликвидации: crvusd/liquidations.md
-    - Здоровье займа (Loan Health): crvusd/loan-health.md
-    - Процент заимствования (Borrow Rate): crvusd/borrow-rate.md
     - Кредитное плечо: lending/leverage.md
     - Как заимствовать и использовать кредитное плечо: lending/how-to-borrow.md
     - Как поставлять ликвидность: lending/how-to-supply.md
