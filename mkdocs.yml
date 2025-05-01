@@ -152,8 +152,10 @@ nav:
 
   - Кредитование Curve:
     - Обзор: lending/overview.md
-    - Кредитное плечо: lending/leverage.md
     - Ликвидации: crvusd/liquidations.md
+    - Здоровье займа (Loan Health): crvusd/loan-health.md
+    - Процент заимствования (Borrow Rate): crvusd/borrow-rate.md
+    - Кредитное плечо: lending/leverage.md
     - Как заимствовать и использовать кредитное плечо: lending/how-to-borrow.md
     - Как поставлять ликвидность: lending/how-to-supply.md
     - FAQ по кредитованию: lending/faq.md
